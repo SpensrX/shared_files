@@ -24,7 +24,8 @@
   "||intel.com",
   "||porsche.de",
   "||porsche.com",
-  "||bing.com"
+  "||bing.com",
+  "||opentrackr.org"
 ];
 var __RULES__ = [
 ];
