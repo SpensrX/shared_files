@@ -4,8 +4,6 @@
   "||nnmclub.to",
   "||pornolab.net",
   "||1377x.to",
-  "||rarbgmirror.org",
-  "||rarbg.to",
   "||btdig.com",
   "||thepiratebay.org",
   "||twitter.com",
@@ -25,7 +23,7 @@
   "||porsche.de",
   "||porsche.com",
   "||bing.com",
-  "||opentrackr.org"
+  "||torrentgalaxy.to"
 ];
 var __RULES__ = [
 ];
