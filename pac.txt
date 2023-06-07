@@ -20,10 +20,9 @@
   "||citrix.com",
   "||formula1.com",
   "||intel.com",
-  "||porsche.de",
-  "||porsche.com",
   "||bing.com",
-  "||torrentgalaxy.to"
+  "||torrentgalaxy.to",
+  "||adguard-vpn.com"
 ];
 var __RULES__ = [
 ];
