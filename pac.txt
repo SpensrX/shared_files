@@ -6,6 +6,8 @@
   "||1377x.to",
   "||btdig.com",
   "||thepiratebay.org",
+  "||openbittorrent.com",
+  "||torrentgalaxy.to",
   "||twitter.com",
   "||twimg.com",
   "||t.co",
@@ -21,7 +23,6 @@
   "||formula1.com",
   "||intel.com",
   "||bing.com",
-  "||torrentgalaxy.to",
   "||adguard-vpn.com"
 ];
 var __RULES__ = [
