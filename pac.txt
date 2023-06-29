@@ -16,6 +16,7 @@
   "||facebook.com",
   "||fbcdn.net",
   "||fb.com",
+  "||linkedin.com",
   "||cloudfront.net",
   "||wetransfer.com",
   "||we.tl",
