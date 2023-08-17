@@ -25,7 +25,8 @@
   "||formula1.com",
   "||intel.com",
   "||bing.com",
-  "||adguard-vpn.com"
+  "||adguard-vpn.com",
+  "||trucksbook.eu"
 ];
 var __RULES__ = [
 ];
