@@ -1,13 +1,6 @@
 [bypass_all]
 
 [proxy_list]
-(?:^|\.)rutracker\.org
-(?:^|\.)rutor\.info
-(?:^|\.)nnmclub\.to
-(?:^|\.)1377x\.to
-(?:^|\.)btdig\.com
-(?:^|\.)thepiratebay\.org
-(?:^|\.)torrentgalaxy\.to
 (?:^|\.)twitter\.com
 (?:^|\.)twimg\.com
 (?:^|\.)t\.co
@@ -17,11 +10,5 @@
 (?:^|\.)fbcdn\.net
 (?:^|\.)fb\.com
 (?:^|\.)cloudfront\.net
-(?:^|\.)citrix\.com
-(?:^|\.)formula1\.com
-(?:^|\.)intel\.com
-(?:^|\.)porsche\.de
-(?:^|\.)porsche\.com
-(?:^|\.)bing\.com"
 104.19.214.58
 104.19.214.59
